@@ -1,0 +1,163 @@
+footer {
+    padding: 100px;
+    background-color: white;
+    color: rgb(138, 94, 94);;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+footer h3 {
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+footer a {
+    color: black;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: brown;
+}
+
+
+ul {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    list-style: none;
+}
+
+h6 {
+    font-family: sans-serif;
+    font-weight: 1000; 
+}
+
+li {
+    font-weight: 200;
+}
+
+.breakfast {
+    color: black;
+}
+
+#reduce {
+    padding-top: 50px;
+    font-size: large;
+    font-weight: 500;
+}
+
+#alone {
+    color: black;
+    font-weight: 100;
+}
+
+#warm {
+    padding-right: 30px;
+    border-color: #fff;
+}
+
+#serve {
+    text-align: justify;
+    padding-right: 80px;
+    padding-left: 80px;
+    color: rgb(119, 21, 21);
+}
+
+.display-4{
+
+    margin-top: 125px;
+}
+
+
+.carousel-inner{
+    padding-bottom: -500px;
+}
+
+#box {
+    color: brown;
+    float: right;
+}
+
+#sweet{
+    color: #fff;
+}
+
+#all {
+    margin-top: 100px;
+    color: brown;
+    text-align: center;
+    font-size: large;
+}
+
+#little {
+    color: brown;
+    text-align: center;
+}
+
+#cheese {
+    background-color: brown;
+    background-size: cover;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+}
+
+#Changes {
+    background-image: url(coffee/close-up-photography-of-cup-of-coffee-851555.jpg); 
+    background-size: 1350px 600px;
+    background-repeat: no-repeat;
+    filter: blur(0.2px);
+    margin-top: 5px;
+    color: #fff;
+    text-align: left;
+    font-weight: 150px;
+    font-size: large;
+    font-family: 'Times New Roman';
+   padding-top : 1px;
+}
+
+#stitch {
+    font-size: large;
+    font-weight: 60px;
+    font-family: monospace;
+    color: rgb(43, 22, 1);
+    text-align: left;
+
+}
+
+.jumbotron {
+
+    background-image: url(caffeine-coffee-coffee-beans-roasted-585750.jpg); 
+    background-size: 1350px 600px;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    color: rgb(41, 6, 6);
+    text-align: left;
+    font-weight: 100px;
+    font-size: large;
+    font-family: monospace;
+}
+
+#tube {
+    color: brown;
+}
+
+#signal {
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 900;
+    color: brown;
+}
+
+nav a {
+    color: rgb(41, 6, 6);
+}
+
+nav a:hover {
+    color:  #000000;
+}
